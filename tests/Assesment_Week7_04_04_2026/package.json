@@ -1,5 +1,5 @@
 {
-  "name": "cg_weeklyassesment_6768898",
+  "name": "assesment_week7_04_04_2026",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
@@ -8,10 +8,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.58.2",
-    "@types/node": "^25.5.0"
-  },
-  "dependencies": {
-    "playwright": "^1.59.1"
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.2"
   }
 }
