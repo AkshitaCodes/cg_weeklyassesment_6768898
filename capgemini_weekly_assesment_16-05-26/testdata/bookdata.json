@@ -1,0 +1,15 @@
+{
+    "Register":{
+        "Fname":"Akshita",
+        "Lname":"Jain",
+        "username":"1234",
+        "password":"12@29"
+    },
+    "Login":{
+        "username":"1234",
+        "password":"12@29"
+    },
+    "Books":{
+        "bookname":"Git Pocket Guide"
+    }
+}

@@ -1,0 +1,28 @@
+{
+<<<<<<< HEAD
+  "dependencies": {
+    "playwright": "^1.60.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.7.0"
+  },
+  "scripts": {}
+=======
+  "name": "cg_weeklyassesment_6768898",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  },
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+>>>>>>> 9dc1d5c3beda7f124f11f3ac80f5014005d48159
+}
